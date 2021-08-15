@@ -1,8 +1,13 @@
-# include <iostream>
+# include<iostream>
+
 using namespace std;
 
+
+
 int main(int argc, char const *argv[])
-{
-    cout << "Hello World";
+{   int T;
+    cin >> T;
+    cout <<T;
     return 0;
 }
+
